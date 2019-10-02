@@ -16,6 +16,7 @@ Write Algorithm in any language and contribute to HacktoberFest
 
 ## C
 * `B` [Commont Element in two Arrays](C/commont_element_in_two_arrays.c)
+* `A` [Commont Element in two Arrays](C/mergesort.c)
 
 
 -----------------
